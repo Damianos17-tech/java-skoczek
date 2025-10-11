@@ -14,10 +14,27 @@
 | F             | Rzut jabłkiem             |
 | P             | Pauza                     |
 
+
+---
+
+## Uruchamianie gry
+
+Aby uruchomić grę, należy:
+
+1. Pobrać plik `skoczek.jar`.  
+2. Upewnić się, że na komputerze zainstalowana jest **Java** (JDK lub JRE).  
+3. Otworzyć terminal / wiersz poleceń w katalogu z plikiem `skoczek.jar`.  
+4. Uruchomić grę komendą:
+
+```bash
+java -jar skoczek.jar
+```
+
 ---
 
 ## Poziomy
-W grze dostępne są **2 mapy**.  
+W grze dostępne są **2 mapy**.
+Jednak gra została zaprojektowana tak, aby **łatwo dodawać kolejne poziomy** w nieskończonej liczbie.
 Aby przejść do kolejnego poziomu, należy znaleźć **skrzynkę z rysunkiem twarzy postaci gracza**. Podejście do niej przenosi do następnego stanu gry.
 
 ---
