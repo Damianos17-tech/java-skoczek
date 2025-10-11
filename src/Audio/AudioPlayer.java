@@ -31,7 +31,11 @@ public class AudioPlayer {
 			File tempFile = File.createTempFile("sound", ".wav");
 			tempFile.deleteOnExit();
 			try (FileOutputStream fos = new FileOutputStream(tempFile)) {
-				is.transferTo(fos);
+				byte[] buffer = new byte[8192];
+				int bytesRead;
+				while ((bytesRead = is.read(buffer)) != -1) {
+					fos.write(buffer, 0, bytesRead);
+				}
 			}
 
 			// Teraz odczyt z pliku, a nie ze strumienia JAR-a
