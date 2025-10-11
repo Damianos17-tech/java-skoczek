@@ -21,13 +21,13 @@
 
 Aby uruchomić grę, należy:
 
-1. Pobrać plik `skoczek.jar`.  
+1. Pobrać plik `skoczekPROZE.jar`.  
 2. Upewnić się, że na komputerze zainstalowana jest **Java** (JDK lub JRE).  
-3. Otworzyć terminal / wiersz poleceń w katalogu z plikiem `skoczek.jar`.  
+3. Otworzyć terminal / wiersz poleceń w katalogu z plikiem `skoczekPROZE.jar`.  
 4. Uruchomić grę komendą:
 
 ```bash
-java -jar skoczek.jar
+java -jar skoczekPROZE.jar
 ```
 
 ---
