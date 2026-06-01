@@ -5,6 +5,7 @@
 ---
 
 
+
 ## Sterowanie
 
 | Klawisz       | Akcja                     |
@@ -47,6 +48,17 @@ Na planszy znajdują się również:
 - jabłka.
 
 ---
+
+
+## Screenshot
+
+<p align="center">
+  <img src="images/skoczekGameCard.PNG" width=""/>
+</p>
+
+
+---
+
 
 ## Wściekłe psy
 - Mają **5 punktów życia**.  
