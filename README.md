@@ -23,7 +23,7 @@
 Aby uruchomić grę, należy:
 
 1. Pobrać plik `GameSkoczekCrash.jar`.
-   (jeżeli nie rozpocznie się pobieranie z github: https://drive.google.com/file/d/1whhJ-GzxuKT8rjPXEJRWX39kY8vsu9UJ/view?usp=drive_link) 
+   (alternatywnie: https://drive.google.com/file/d/1whhJ-GzxuKT8rjPXEJRWX39kY8vsu9UJ/view?usp=drive_link) 
 2. Upewnić się, że na komputerze zainstalowana jest **Java** (JDK lub JRE).  
 3. Otworzyć terminal / wiersz poleceń w katalogu z plikiem `GameSkoczekCrash.jar`.  
 4. Uruchomić grę komendą:
